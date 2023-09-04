@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque in maxime aspernatur itaque! Ea possimus, deserunt tenetur cupiditate non unde quos pariatur rerum corrupti officiis amet fugiat sed molestias voluptate vel incidunt id est maxime! Facere dolore blanditiis fuga corrupti porro! Dolore, corrupti quod maxime consequatur magni a laboriosam beatae voluptatum nulla ratione officia voluptates, quasi accusantium porro reiciendis! Maiores illo ut ipsa delectus est voluptatem quisquam laudantium accusantium excepturi consequatur, natus a cum quis molestiae? Soluta, iusto accusantium dolores ipsam exercitationem harum, explicabo, eum dolore eius voluptatum ducimus! Molestiae voluptatibus voluptas quod, eligendi sint rem doloribus sed quo alias itaque! Magnam, dolore consequatur, omnis suscipit ratione quia debitis sed tempora mollitia similique maiores ipsam deleniti, nemo eum nostrum esse. Temporibus dignissimos nesciunt debitis autem amet ipsam aliquam sed fugiat, unde similique, iusto quia, iste quod obcaecati dicta vero perferendis minima? Debitis soluta maxime ut doloribus ducimus quasi laboriosam architecto. Iure molestiae temporibus ipsum saepe sint? Magni cumque odit provident eum facere ex error officiis delectus nobis amet incidunt, ipsa ad eius voluptas illo quasi iusto ducimus, suscipit non dolor ab earum laudantium nisi perspiciatis! Amet cumque distinctio dolore, ratione, asperiores eum fugiat explicabo quo nulla a qui autem alias!",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque in maxime aspernatur itaque! Ea possimus, deserunt tenetur cupiditate non unde quos pariatur rerum corrupti officiis amet fugiat sed molestias voluptate vel incidunt id est maxime! Facere dolore blanditiis fuga corrupti porro! Dolore, corrupti quod maxime consequatur magni a laboriosam beatae voluptatum nulla ratione officia voluptates, quasi accusantium porro reiciendis! Maiores illo ut ipsa delectus est voluptatem quisquam laudantium accusantium excepturi consequatur, natus a cum quis molestiae? Soluta, iusto accusantium dolores ipsam exercitationem harum, explicabo, eum dolore eius voluptatum ducimus! Molestiae voluptatibus voluptas quod, eligendi sint rem doloribus sed quo alias itaque! Magnam, dolore consequatur, omnis suscipit ratione quia debitis sed tempora mollitia similique maiores ipsam deleniti, nemo eum nostrum esse. Temporibus dignissimos nesciunt debitis autem amet ipsam aliquam sed fugiat, unde similique, iusto quia, iste quod obcaecati dicta vero perferendis minima? Debitis soluta maxime ut doloribus ducimus quasi laboriosam architecto. Iure molestiae temporibus ipsum saepe sint? Magni cumque odit provident eum facere ex error officiis delectus nobis amet incidunt, ipsa ad eius voluptas illo quasi iusto ducimus, suscipit non dolor ab earum laudantium nisi perspiciatis! Amet cumque distinctio dolore, ratione, asperiores eum fugiat explicabo quo nulla a qui autem alias!",
+      "tags": ["css", "webdev", "coding"]
+    }
+  ]
+}
